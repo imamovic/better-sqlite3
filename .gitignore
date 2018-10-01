@@ -38,3 +38,4 @@ node_modules
 lib/binding
 .DS_Store
 temp/
+/.idea
